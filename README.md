@@ -20,7 +20,7 @@
 
      
 
-# Needed Features
+# Required Features
     Seeders
     .env
     Use of blade templating
